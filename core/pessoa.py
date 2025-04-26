@@ -18,6 +18,3 @@ class Pessoa:
     def set_dados(self, nome, idade):
         self.nome = nome
         self.idade = idade
-
-
-
